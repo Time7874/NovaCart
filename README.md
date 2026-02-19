@@ -6,7 +6,7 @@
 
   NovaCart is a fully responsive furniture ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/Time7874/NovaCart"><strong>➥ Live Demo</strong></a>
+  <a href="https://time7874.github.io/NovaCart/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
